@@ -1,0 +1,17 @@
+# Build output and dependencies (Electron Forge)
+node_modules/
+out/
+
+# Case data must never be committed: it may hold personal data.
+*.bsdata
+*.json.bak
+furgaris-cases-*
+
+# Secrets
+.env
+*.key
+
+# Windows / editor clutter
+Thumbs.db
+desktop.ini
+.vscode/
