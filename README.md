@@ -2,8 +2,6 @@
 
 **Case management for online investigations. Runs on your own computer. No account, no server, no cloud.**
 
-*Formerly Cancerbero, and before that BrowserSentinel. Same project, new name.*  <!-- [CONFIRM] keep or remove -->
-
 Every online investigation starts the same way. A tab for WHOIS. Another for VirusTotal. Then social media, then a reverse image search. Twenty minutes later you have forty tabs, three windows, and notes in a text file you'll never find again.
 
 The tools were never the problem. What's missing is structure, and a way to answer the question that always comes at the end of a case: *how do you know that?*
