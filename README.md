@@ -1,10 +1,10 @@
 # Furgaris
 
-**Case management for online investigations. Runs on your own computer. No account, no server, no cloud.**
+**Case management for online investigations that runs on your own computer: no account, no server, nothing in the cloud.**
 
-Every online investigation starts the same way. A tab for WHOIS. Another for VirusTotal. Then social media, then a reverse image search. Twenty minutes later you have forty tabs, three windows, and notes in a text file you'll never find again.
+This is case management + OSINT tool I built for investigators, analysts and researchers. Every online investigation starts the same way. A tab for WHOIS. Another for VirusTotal. Then social media, then a reverse image search. Twenty minutes later you have forty tabs, three windows, and notes in a text file you'll never find again.
 
-The tools were never the problem. What's missing is structure, and a way to answer the question that always comes at the end of a case: *how do you know that?*
+The tools themselves are fine. What I kept missing was structure, and a way to answer the question that always comes at the end of a case:  *how do you know that?*
 
 Furgaris is the tool I built to fix that.
 
@@ -28,7 +28,7 @@ Furgaris is the tool I built to fix that.
 
 ## What it isn't
 
-It's not a magic button. It doesn't investigate for you, and it doesn't replace your judgement. It keeps your work organised and helps you show how you reached a conclusion.
+It won’t investigate for you, and it doesn’t replace your judgement. It keeps your work organised and helps you show how you got to a conclusion.
 
 ---
 
@@ -64,23 +64,6 @@ Download `Furgaris_Demo_20_cases.bsdata`, then in Furgaris go to **Cases → Imp
 - Back up with **Save As** or **Export JSON** on the Cases dashboard. If you lose your computer without a backup, your cases are gone.
 - Data only leaves your machine when **you** choose: when you use the AI features with a cloud provider (the app shows what is sent), or when you open an external OSINT tool. Those websites see your searches and your IP address, like any website does. Episode 6 of the video series covers how to work safely.
 
----
-
-## Video guides
-
-Links are added here as each episode is published.
-
-| # | Episode |
-|---|---|
-| 0 | What Furgaris is, and why it exists |
-| 1 | Install, first launch, where your data lives |
-| 2 | Running a caseload: the dashboard and its numbers |
-| 3 | Your first case |
-| 4 | Evidence and chain of custody |
-| 5 | Connecting cases |
-| 6 | The OSINT tools, and working safely |
-| 7 | The AI features |
-| 8 | Reporting and independent verification |
 
 ---
 
@@ -106,18 +89,13 @@ It is **free** for personal use, self-learning, academic research and teaching, 
 
 **Commercial use needs a licence.** That includes use by a company, a public authority or law-enforcement body, or any organisation with paid staff.
 
-<!-- [CONFIRM] Evaluation at work. See the note from Claude: the licence currently has no
-     evaluation clause. If you add one, replace this comment with, for example:
-     "Evaluating it for your organisation? Evaluation is free for [90] days,
-     on test or demo data. See Section X of the licence." -->
-
 Distributing modified versions isn't permitted. Full terms: [LICENSE.md](LICENSE.md). Licensing questions: albertplanas@albertplanas.eu
 
 ---
 
 ## Support
 
-Furgaris is free for personal and non-commercial use. If it saves you time, you can support its development on [Ko-fi](https://ko-fi.com/albertslovakia). Entirely optional, and hugely appreciated.
+Furgaris is free for personal and non-commercial use. It’s completely optional, but it helps me keep working on it, you can support its development on [Ko-fi](https://ko-fi.com/albertslovakia). Entirely optional, and hugely appreciated.
 
 ---
 
